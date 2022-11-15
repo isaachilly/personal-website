@@ -1,4 +1,4 @@
-baseURL = 'https://enchanting-hamster-47f3b0.netlify.app/'
+baseURL = 'isaachill.co.uk'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "cactus"
