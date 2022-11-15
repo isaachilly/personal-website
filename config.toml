@@ -1,4 +1,4 @@
-baseURL = 'isaachill.co.uk/'
+baseURL = 'www.isaachill.co.uk/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "cactus"
