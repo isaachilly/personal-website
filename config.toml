@@ -2,6 +2,7 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'Isaac Hill'
 theme = "hugo-PaperMod"
+Description = "The personal website, blog and dev diary of Isaac Hill"
 
 # Main menu which appears below site header.
 [[menu.main]]
