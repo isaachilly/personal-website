@@ -37,6 +37,10 @@ Content = "Welcome to my website. This is where I advertise myself on the intern
 name = "LinkedIn"
 url = ""
 
+[[params.socialIcons]]
+name = "email"
+url = "mailto:isaac@isaachill.co.uk"
+
 [params]
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
