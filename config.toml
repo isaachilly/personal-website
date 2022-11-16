@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Isaac Hill Personal Site'
 theme = "cactus"
 
 # Main menu which appears below site header.
@@ -14,12 +14,12 @@ name = "All posts"
 url = "/posts"
 weight = 2
 
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 3
+# [[menu.main]]
+# name = "Tags"
+# url = "/tags"
+# weight = 3
 
 [[menu.main]]
-name = "About"
+name = "About this site"
 url = "/about"
 weight = 4
