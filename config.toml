@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Isaac Hill Personal Site'
+title = 'Isaac Hill'
 theme = "cactus"
 
 # Main menu which appears below site header.
