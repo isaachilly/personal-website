@@ -1,7 +1,7 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'Isaac Hill'
-theme = "cactus"
+theme = "hugo-PaperMod"
 
 # Main menu which appears below site header.
 [[menu.main]]
@@ -11,7 +11,7 @@ weight = 1
 
 [[menu.main]]
 name = "All posts"
-url = "/posts"
+url = "/archives"
 weight = 2
 
 # [[menu.main]]
@@ -19,7 +19,29 @@ weight = 2
 # url = "/tags"
 # weight = 3
 
+# [[menu.main]]
+# name = "About this site"
+# url = "/about"
+# weight = 4
+
 [[menu.main]]
-name = "About this site"
-url = "/about"
-weight = 4
+name = "Search"
+url = "/search"
+weight = 3
+
+[params.homeInfoParams]
+Title = "Hi there 👋"
+Content = "Welcome to my website. This is where I advertise myself on the internet, my store front if you will."
+
+[[params.socialIcons]]
+name = "LinkedIn"
+url = ""
+
+[params]
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+# ShowShareButtons = true
+ShowReadingTime= true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
