@@ -35,7 +35,7 @@ Content = "Welcome to my website. This is where I advertise myself on the intern
 
 [[params.socialIcons]]
 name = "LinkedIn"
-url = "linkedin.com/in/isaac-hill-50a1b4a3"
+url = "https://linkedin.com/in/isaac-hill-50a1b4a3"
 
 [[params.socialIcons]]
 name = "email"
