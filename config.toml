@@ -30,8 +30,10 @@ url = "/search"
 weight = 3
 
 [params.homeInfoParams]
-Title = "Isaac Hill 🧑"
-Content = "Welcome to my website. This is where I advertise myself on the internet, my store front if you will."
+Title = "Hi, welcome to my site 💻"
+Content = """This is where I advertise myself on the internet; my store front if you will.
+
+📔 Projects | 📮 Blog posts | 📎 CV / Resume"""
 
 [[params.socialIcons]]
 name = "LinkedIn"
@@ -51,6 +53,9 @@ ShowCodeCopyButtons = true
 # ShowShareButtons = true
 ShowReadingTime= true
 Description = "The personal website, blog and development diary of Isaac Hill."
+ShowPostNavLinks=true
+ShowToc = true
+
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
