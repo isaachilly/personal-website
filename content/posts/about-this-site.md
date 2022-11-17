@@ -4,7 +4,7 @@ date: 2022-11-15T20:53:51Z
 draft: false
 ---
 
-![image](/images/coding.gif)
+![image](/images/internet.jpg)
 
 ## Site generation
 

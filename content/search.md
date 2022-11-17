@@ -2,7 +2,7 @@
 title: "Search" # in any language you want
 layout: "search" # is necessary
 # url: "/archive"
-# description: "Description for Search"
+description: "Search page for Isaac Hill's website"
 summary: "search"
-placeholder: "placeholder text in search input box"
+placeholder: "website creation"
 ---

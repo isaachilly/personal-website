@@ -12,7 +12,7 @@ draft: false
 
 ---
 
-![image](/images/internet.jpg)
+![image](/images/hands.jpg)
 
 
 Welcome to my website, apart from being cool it serves as my online CV, porfolio and project pages.
