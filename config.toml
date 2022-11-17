@@ -30,7 +30,7 @@ url = "/search"
 weight = 3
 
 [params.homeInfoParams]
-Title = "Hi there 👋"
+Title = "Isaac Hill 🧑"
 Content = "Welcome to my website. This is where I advertise myself on the internet, my store front if you will."
 
 [[params.socialIcons]]
@@ -46,7 +46,7 @@ ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
 # ShowShareButtons = true
 ShowReadingTime= true
-Description = "The personal website, blog and dev diary of Isaac Hill"
+Description = "The personal website, blog and development diary of Isaac Hill."
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
