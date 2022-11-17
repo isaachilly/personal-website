@@ -41,6 +41,10 @@ url = "https://linkedin.com/in/isaac-hill-50a1b4a3"
 name = "email"
 url = "mailto:isaac@isaachill.co.uk"
 
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/isaachilly"
+
 [params]
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
