@@ -42,7 +42,7 @@ name = "email"
 url = "mailto:isaac@isaachill.co.uk"
 
 [[params.socialIcons]]
-name = "github"
+name = "Github"
 url = "https://github.com/isaachilly"
 
 [params]
