@@ -55,6 +55,7 @@ ShowReadingTime= true
 Description = "The personal website, blog and development diary of Isaac Hill."
 ShowPostNavLinks=true
 ShowToc = true
+env= "production"
 
 
 [outputs]
