@@ -14,6 +14,4 @@ Welcome to my website, apart from being cool it serves as my online CV, porfolio
 
 I hope to imporve the website content throughout my time studying and working.
 
-If anything it is fun thing to do in some of my spare time.
-
 👋

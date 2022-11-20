@@ -16,7 +16,7 @@ I’m using a theme called [PaperMod](https://github.com/adityatelange/hugo-Pape
 
 ## Site hosting and DNS configuration
 
-My domain was purchased through [Namecheap](https://www.namecheap.com/) and I manage my DNS configuration them as well.
+My domain was purchased through [Namecheap](https://www.namecheap.com/) and I manage my DNS configuration via them as well.
 
 ## Site editing
 
