@@ -12,6 +12,6 @@ ShowReadingTime: false
 
 Welcome to my website, apart from being cool it serves as my online CV, porfolio and project pages.
 
-I hope to imporve the website content throughout my time studying and working.
+I hope to improve the website content throughout my time studying and working in industry.
 
 👋
