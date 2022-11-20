@@ -1,33 +1,52 @@
 baseURL = 'https://www.isaachill.co.uk'
 languageCode = 'en-us'
-title = 'Isaac Hill'
+title = "Isaac Hill"
 theme = "hugo-PaperMod"
 
 # Main menu which appears below site header.
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+# [[menu.main]]
+# name = "Home"
+# url = "/"
+# weight = 1
 
 [[menu.main]]
 name = "All posts"
 url = "/archives"
 weight = 2
 
+[[menu.main]]
+name = "Projects"
+url = "/categories/projects/"
+weight = 3
+
+# [[menu.main]]
+# name = "Categories"
+# url = "/categories/"
+# weight = 3
+
 # [[menu.main]]
 # name = "Tags"
 # url = "/tags"
 # weight = 3
 
-# [[menu.main]]
-# name = "About this site"
-# url = "/about"
-# weight = 4
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
 
 [[menu.main]]
 name = "Search"
 url = "/search"
-weight = 3
+weight = 5
+
+
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  # tag = 'project'
+
+
 
 [params.homeInfoParams]
 Title = "Hi, welcome to my site 💻"
@@ -46,6 +65,10 @@ url = "mailto:isaac@isaachill.co.uk"
 [[params.socialIcons]]
 name = "Github"
 url = "https://github.com/isaachilly"
+
+[[params.socialIcons]]
+name = "rss"
+url = "https://www.isaachill.co.uk/posts/index.xml"
 
 [params]
 ShowBreadCrumbs = true

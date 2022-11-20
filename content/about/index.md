@@ -1,13 +1,19 @@
 ---
-title: "About this site"
-date: 2022-11-15T20:53:51Z
+# author: "Isaac"
+title: "About"
+# date: 2022-11-15T20:53:51Z
 searchHidden: true
+ShowBreadCrumbs: false
+ShowReadingTime: false
 ---
 
-This blog is built with a static site generator called Hugo and is hosted on netlify servers.
+![image](/images/hands.jpg)
 
-I’m using a theme called Cactus.
 
-My domain was purchased through namecheap.com and I utilize their DNS management as well.
+Welcome to my website, apart from being cool it serves as my online CV, porfolio and project pages.
 
-I write my posts in VSCode (extension post coming soon), and push them to my personal website repository on GitHub, where they are automatically deployed by Netlify.
+I hope to imporve the website content throughout my time studying and working.
+
+If anything it is fun thing to do in some of my spare time.
+
+👋
